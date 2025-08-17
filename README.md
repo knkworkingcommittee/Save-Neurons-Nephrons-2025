@@ -1,6 +1,6 @@
-#$ave Neurons & Nephrons 2025
+# Save Neurons & Nephrons 2025
 
-###Integrating Neuro-Nephro Care: From Risk to Response
+### Integrating Neuro-Nephro Care: From Risk to Response
 
 **Introduction**
 
