@@ -1,26 +1,12 @@
-Blood & Bugs-2025
-CME on Haematology and Microbiology
-Introduction Welcome to Blood & Bugs 2025 – “Synergizing Haematology and Microbiology for Better Patient Outcomes”, a pioneering convergence of disciplines aimed at tackling two of the most common and interlinked clinical challenges: haematological disorders and infections. In today’s rapidly evolving healthcare landscape, bridging the gap between diagnosis and effective treatment is essential for holistic patient care.
+**$ave Neurons & Nephrons 2025**
+Chronic Kidney Disease (CKD) is a global health problem affecting nearly 10–15% of the adult population. It is characterized by a gradual loss of kidney function, often progressing silently until advanced stages. Major contributors include diabetes, hypertension, obesity, and aging, with significant variation across regions due to lifestyle, genetics, and access to healthcare. CKD not only increases the risk of kidney failure requiring dialysis or transplant but also contributes to cardiovascular disease, infections, and reduced quality of life. Recognizing its epidemiology is crucial for guiding preventive strategies and reducing the overall disease burden.
 
-This conference brings into sharp focus the ‘ABC’ of modern clinical practice:
 
-Anaemia: Understanding the root causes, from nutritional deficiencies to chronic infections, and refining diagnosis with evidence-based protocols.
+Alzheimer’s disease is the most common cause of dementia, accounting for 60–70% of cases worldwide. It is marked by progressive memory loss, decline in cognitive abilities, and changes in behavior, eventually interfering with daily activities. While age remains the greatest risk factor, other contributors include genetics, cardiovascular disease, diabetes, and lifestyle factors. The growing elderly population means Alzheimer’s prevalence is expected to rise sharply, creating significant social and economic challenges.
 
-Infection Control & Antibiotic Stewardship: Strengthening infection prevention strategies while combating antimicrobial resistance through responsible antibiotic use.
 
-Culture & Sensitivity in OPD Practice: Reinforcing the pivotal role of microbiological testing in guiding precise therapy and reducing empirical misuse of antibiotics.
+Efforts in prevention, early diagnosis, and treatment of Alzheimer’s disease are increasingly emphasized in clinical practice. Regular cognitive screening in at-risk individuals, management of vascular risk factors, and adoption of healthy lifestyle measures—such as physical activity, balanced diet, social engagement, and mental stimulation—are known to reduce risk. While current treatments mainly target symptoms, ongoing research into disease-modifying therapies offers hope for slowing progression. Early intervention, coupled with caregiver support and community awareness, remains the cornerstone of effective Alzheimer’s care.
 
-In addition, the spotlight will also be on rational investigations in febrile patients, enabling early differentiation between bacterial, viral, parasitic, and inflammatory causes — a cornerstone of accurate and timely treatment.
-
-An Integrative Outlook: Ayurvedic and Homeopathic Perspectives Modern medicine alone cannot address the full spectrum of patient needs. Thus, Blood & Bugs 2025 embraces an integrative approach, incorporating the wisdom of Ayurveda and Classical Homeopathy.
-
-The Ayurvedic perspective explores the interplay of Doshas, Agni, and Ama in anaemia (Pandu) and Jwara (fever), offering personalized dietary, herbal, and Panchakarma-based interventions.
-
-The Homeopathic approach delves into miasmatic influences, constitutional remedies, and totality of symptoms to address recurring infections, chronic low-grade fevers, and anaemic presentations holistically.
-
-Through this multidisciplinary lens, the conference aims to promote comprehensive, patient-centric solutions for common yet complex clinical scenarios, fostering collaboration across all systems of medicine.
-
-Let us unite scientific innovation with traditional wisdom to reimagine how we diagnose, treat, and prevent blood and infectious diseases — ultimately improving patient outcomes and public health.
 
 📂 1. Investigations in Patient of Fever
 
