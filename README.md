@@ -28,6 +28,4 @@ Efforts in prevention, early diagnosis, and treatment of Alzheimer’s disease a
 Wish you a happy learning!
 
 
-📂 7.The Role of Homeopathy in Infection Control
 
-Wish you a happy learning!
